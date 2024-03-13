@@ -1,0 +1,37 @@
+.looperBgIcon {
+  width: 3319px;
+  height: 2258px;
+  position: absolute;
+  margin: 0 !important;
+  right: -1964px;
+  bottom: -707px;
+  z-index: 1;
+}
+.cover {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-black);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 98px 37px 130px 203px;
+  box-sizing: border-box;
+  gap: 61.9px 0;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1150px) {
+  .cover {
+    gap: 31px 0;
+    padding-left: 101px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .cover {
+    gap: 15px 0;
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

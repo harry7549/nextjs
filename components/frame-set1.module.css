@@ -1,0 +1,648 @@
+.vuesaxboldtickCircleIcon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip1 {
+  position: relative;
+  line-height: 28px;
+}
+.badgeFrame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-5xs);
+}
+.vuesaxboldcloseCircleIcon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip {
+  height: 33px;
+  border-radius: var(--br-base);
+  background-color: var(--colors-base-success-50);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-9xs);
+  box-sizing: border-box;
+}
+.user {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  line-height: 38.5px;
+  font-weight: 600;
+  font-family: inherit;
+  color: var(--colors-base-default-foreground);
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-xl) var(--padding-0) var(--padding-0);
+  gap: 0 20px;
+  color: var(--colors-base-success);
+}
+.vuesaxboldtickCircleIcon1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip3 {
+  position: relative;
+  line-height: 28px;
+}
+.chipWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-5xs);
+}
+.vuesaxboldcloseCircleIcon1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip2 {
+  height: 33px;
+  border-radius: var(--br-base);
+  background-color: var(--colors-base-success-50);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-9xs);
+  box-sizing: border-box;
+}
+.badge {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  line-height: 38.5px;
+  font-weight: 600;
+  font-family: inherit;
+  color: var(--colors-base-default-foreground);
+}
+.container1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-xl) var(--padding-0) var(--padding-0);
+  gap: 0 20px;
+  color: var(--colors-base-success);
+}
+.vuesaxboldtickCircleIcon2 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip5 {
+  position: relative;
+  line-height: 28px;
+}
+.chipContainer {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-5xs);
+}
+.vuesaxboldcloseCircleIcon2 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip4 {
+  height: 33px;
+  border-radius: var(--br-base);
+  background-color: var(--colors-base-success-50);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-9xs);
+  box-sizing: border-box;
+}
+.checkboxGroup {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  line-height: 38.5px;
+  font-weight: 600;
+  font-family: inherit;
+  color: var(--colors-base-default-foreground);
+}
+.container2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-xl) var(--padding-0) var(--padding-0);
+  box-sizing: border-box;
+  gap: 0 20px;
+  max-width: 100%;
+  color: var(--colors-base-success);
+}
+.vuesaxboldtickCircleIcon3 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip7 {
+  position: relative;
+  line-height: 28px;
+}
+.chipFrame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-5xs);
+}
+.vuesaxboldcloseCircleIcon3 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip6 {
+  height: 33px;
+  border-radius: var(--br-base);
+  background-color: var(--colors-base-warning-50);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-9xs);
+  box-sizing: border-box;
+}
+.card {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  line-height: 38.5px;
+  font-weight: 600;
+  font-family: inherit;
+  color: var(--colors-base-default-foreground);
+}
+.container3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-xl) var(--padding-0) var(--padding-0);
+  gap: 0 20px;
+  color: var(--colors-base-warning);
+}
+.vuesaxboldtickCircleIcon4 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip9 {
+  position: relative;
+  line-height: 28px;
+}
+.frameDiv {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-5xs);
+}
+.vuesaxboldcloseCircleIcon4 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip8 {
+  height: 33px;
+  border-radius: var(--br-base);
+  background-color: var(--colors-base-warning-50);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-9xs);
+  box-sizing: border-box;
+}
+.input {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  line-height: 38.5px;
+  font-weight: 600;
+  font-family: inherit;
+  color: var(--colors-base-default-foreground);
+}
+.container4 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-xl) var(--padding-0) var(--padding-0);
+  gap: 0 20px;
+  color: var(--colors-base-warning);
+}
+.vuesaxboldtickCircleIcon5 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip11 {
+  position: relative;
+  line-height: 28px;
+}
+.chipWrapper1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-5xs);
+}
+.vuesaxboldcloseCircleIcon5 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip10 {
+  height: 33px;
+  border-radius: var(--br-base);
+  background-color: var(--colors-base-warning-50);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-9xs);
+  box-sizing: border-box;
+}
+.table {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  line-height: 38.5px;
+  font-weight: 600;
+  font-family: inherit;
+  color: var(--colors-base-default-foreground);
+}
+.container5 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-xl) var(--padding-0) var(--padding-0);
+  gap: 0 20px;
+  color: var(--colors-base-warning);
+}
+.vuesaxboldtickCircleIcon6 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip13 {
+  position: relative;
+  line-height: 28px;
+}
+.chipWrapper2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-5xs);
+}
+.vuesaxboldcloseCircleIcon6 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip12 {
+  height: 33px;
+  border-radius: var(--br-base);
+  background-color: var(--colors-base-warning-50);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-9xs);
+  box-sizing: border-box;
+}
+.switch {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  line-height: 38.5px;
+  font-weight: 600;
+  font-family: inherit;
+  color: var(--colors-base-default-foreground);
+}
+.container6 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-xl) var(--padding-0) var(--padding-0);
+  gap: 0 20px;
+  color: var(--colors-base-warning);
+}
+.vuesaxboldtickCircleIcon7 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip15 {
+  position: relative;
+  line-height: 28px;
+}
+.chipWrapper3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-5xs);
+}
+.vuesaxboldcloseCircleIcon7 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip14 {
+  height: 33px;
+  border-radius: var(--br-base);
+  background-color: var(--colors-base-default-100);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-9xs);
+  box-sizing: border-box;
+}
+.avatarGroup {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  line-height: 38.5px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.container7 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-xl) var(--padding-0) var(--padding-0);
+  box-sizing: border-box;
+  gap: 0 20px;
+  max-width: 100%;
+}
+.vuesaxboldtickCircleIcon8 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip17 {
+  position: relative;
+  line-height: 28px;
+}
+.chipWrapper4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-5xs);
+}
+.vuesaxboldcloseCircleIcon8 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip16 {
+  height: 33px;
+  border-radius: var(--br-base);
+  background-color: var(--colors-base-default-100);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-9xs);
+  box-sizing: border-box;
+}
+.accordion {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  line-height: 38.5px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.container8 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-xl) var(--padding-0) var(--padding-0);
+  box-sizing: border-box;
+  gap: 0 20px;
+  max-width: 100%;
+}
+.vuesaxboldtickCircleIcon9 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip19 {
+  position: relative;
+  line-height: 28px;
+}
+.chipWrapper5 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-5xs);
+}
+.vuesaxboldcloseCircleIcon9 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip18 {
+  height: 33px;
+  border-radius: var(--br-base);
+  background-color: var(--colors-base-default-100);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-9xs);
+  box-sizing: border-box;
+}
+.progress {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  line-height: 38.5px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.container9 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-xl) var(--padding-0) var(--padding-0);
+  gap: 0 20px;
+}
+.vuesaxboldtickCircleIcon10 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip21 {
+  position: relative;
+  line-height: 28px;
+}
+.chipWrapper6 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-5xs);
+}
+.vuesaxboldcloseCircleIcon10 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip20 {
+  height: 33px;
+  border-radius: var(--br-base);
+  background-color: var(--colors-base-default-100);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-9xs);
+  box-sizing: border-box;
+}
+.circularProgress {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  line-height: 38.5px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.container10 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 20px;
+}
+.vuesaxboldtickCircleIcon11 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip23 {
+  position: relative;
+  line-height: 28px;
+}
+.chipWrapper7 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-5xs);
+}
+.vuesaxboldcloseCircleIcon11 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip22 {
+  height: 33px;
+  border-radius: var(--br-base);
+  background-color: var(--colors-base-default-100);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-9xs);
+  box-sizing: border-box;
+}
+.divider {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  line-height: 38.5px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.container11 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-xl) var(--padding-0) var(--padding-0);
+  gap: 0 20px;
+}
+.frameSet {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 20px 0;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--text-lg-leading-7-font-normal-size);
+  color: var(--colors-base-default-foreground);
+  font-family: var(--text-lg-leading-7-font-normal);
+}
+@media screen and (max-width: 390px) {
+  .container10 {
+    flex-wrap: wrap;
+  }
+}

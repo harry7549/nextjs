@@ -1,0 +1,627 @@
+.vuesaxboldtickCircleIcon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip1 {
+  position: relative;
+  line-height: 28px;
+}
+.chipWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-5xs);
+}
+.vuesaxboldcloseCircleIcon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip {
+  height: 33px;
+  border-radius: var(--br-base);
+  background-color: var(--colors-base-default-100);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-9xs);
+  box-sizing: border-box;
+}
+.popover {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  line-height: 38.5px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.chipParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-xl) var(--padding-0) var(--padding-0);
+  gap: 0 20px;
+}
+.vuesaxboldtickCircleIcon1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip3 {
+  position: relative;
+  line-height: 28px;
+}
+.chipContainer {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-5xs);
+}
+.vuesaxboldcloseCircleIcon1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip2 {
+  height: 33px;
+  border-radius: var(--br-base);
+  background-color: var(--colors-base-default-100);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-9xs);
+  box-sizing: border-box;
+}
+.image {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  line-height: 38.5px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.chipGroup {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-xl) var(--padding-0) var(--padding-0);
+  gap: 0 20px;
+}
+.vuesaxboldtickCircleIcon2 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip5 {
+  position: relative;
+  line-height: 28px;
+}
+.chipFrame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-5xs);
+}
+.vuesaxboldcloseCircleIcon2 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip4 {
+  height: 33px;
+  border-radius: var(--br-base);
+  background-color: var(--colors-base-default-100);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-9xs);
+  box-sizing: border-box;
+}
+.navbar {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  line-height: 38.5px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.frameDiv {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-xl) var(--padding-0) var(--padding-0);
+  gap: 0 20px;
+}
+.vuesaxboldtickCircleIcon3 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip7 {
+  position: relative;
+  line-height: 28px;
+}
+.chipWrapper1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-5xs);
+}
+.vuesaxboldcloseCircleIcon3 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip6 {
+  height: 33px;
+  border-radius: var(--br-base);
+  background-color: var(--colors-base-default-100);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-9xs);
+  box-sizing: border-box;
+}
+.pagination {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  line-height: 38.5px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.chipParent1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-xl) var(--padding-0) var(--padding-0);
+  box-sizing: border-box;
+  gap: 0 20px;
+  max-width: 100%;
+}
+.vuesaxboldtickCircleIcon4 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip9 {
+  position: relative;
+  line-height: 28px;
+}
+.chipWrapper2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-5xs);
+}
+.vuesaxboldcloseCircleIcon4 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip8 {
+  height: 33px;
+  border-radius: var(--br-base);
+  background-color: var(--colors-base-default-100);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-9xs);
+  box-sizing: border-box;
+}
+.skeleton {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  line-height: 38.5px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.chipParent2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-xl) var(--padding-0) var(--padding-0);
+  gap: 0 20px;
+}
+.vuesaxboldtickCircleIcon5 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip11 {
+  position: relative;
+  line-height: 28px;
+}
+.chipWrapper3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-5xs);
+}
+.vuesaxboldcloseCircleIcon5 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip10 {
+  height: 33px;
+  border-radius: var(--br-base);
+  background-color: var(--colors-base-default-100);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-9xs);
+  box-sizing: border-box;
+}
+.textarea {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  line-height: 38.5px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.chipParent3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-xl) var(--padding-0) var(--padding-0);
+  gap: 0 20px;
+}
+.vuesaxboldtickCircleIcon6 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip13 {
+  position: relative;
+  line-height: 28px;
+}
+.chipWrapper4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-5xs);
+}
+.vuesaxboldcloseCircleIcon6 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip12 {
+  height: 33px;
+  border-radius: var(--br-base);
+  background-color: var(--colors-base-default-100);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-9xs);
+  box-sizing: border-box;
+}
+.tooltip {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  line-height: 38.5px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.chipParent4 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-xl) var(--padding-0) var(--padding-0);
+  gap: 0 20px;
+}
+.vuesaxboldtickCircleIcon7 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip15 {
+  position: relative;
+  line-height: 28px;
+}
+.chipWrapper5 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-5xs);
+}
+.vuesaxboldcloseCircleIcon7 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip14 {
+  height: 33px;
+  border-radius: var(--br-base);
+  background-color: var(--colors-base-default-100);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-9xs);
+  box-sizing: border-box;
+}
+.modal {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  line-height: 38.5px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.chipParent5 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-xl) var(--padding-0) var(--padding-0);
+  gap: 0 20px;
+}
+.vuesaxboldtickCircleIcon8 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip17 {
+  position: relative;
+  line-height: 28px;
+}
+.chipWrapper6 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-5xs);
+}
+.vuesaxboldcloseCircleIcon8 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip16 {
+  height: 33px;
+  border-radius: var(--br-base);
+  background-color: var(--colors-base-default-100);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-9xs);
+  box-sizing: border-box;
+}
+.dropdown {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  line-height: 38.5px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.chipParent6 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-xl) var(--padding-0) var(--padding-0);
+  box-sizing: border-box;
+  gap: 0 20px;
+  max-width: 100%;
+}
+.vuesaxboldtickCircleIcon9 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip19 {
+  position: relative;
+  line-height: 28px;
+}
+.chipWrapper7 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-5xs);
+}
+.vuesaxboldcloseCircleIcon9 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip18 {
+  height: 33px;
+  border-radius: var(--br-base);
+  background-color: var(--colors-base-default-100);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-9xs);
+  box-sizing: border-box;
+}
+.select {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  line-height: 38.5px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.chipParent7 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-xl) var(--padding-0) var(--padding-0);
+  gap: 0 20px;
+}
+.vuesaxboldtickCircleIcon10 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip21 {
+  position: relative;
+  line-height: 28px;
+}
+.chipWrapper8 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-5xs);
+}
+.vuesaxboldcloseCircleIcon10 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip20 {
+  height: 33px;
+  border-radius: var(--br-base);
+  background-color: var(--colors-base-default-100);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-9xs);
+  box-sizing: border-box;
+}
+.listbox {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  line-height: 38.5px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.chipParent8 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-xl) var(--padding-0) var(--padding-0);
+  gap: 0 20px;
+}
+.vuesaxboldtickCircleIcon11 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip23 {
+  position: relative;
+  line-height: 28px;
+}
+.chipWrapper9 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-5xs);
+}
+.vuesaxboldcloseCircleIcon11 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  display: none;
+}
+.chip22 {
+  height: 33px;
+  border-radius: var(--br-base);
+  background-color: var(--colors-base-default-100);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-9xs);
+  box-sizing: border-box;
+}
+.scrollshadow {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  line-height: 38.5px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.chipParent9,
+.frameSet {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 20px;
+}
+.frameSet {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 20px 0;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--text-lg-leading-7-font-normal-size);
+  color: var(--colors-base-default-foreground);
+  font-family: var(--text-lg-leading-7-font-normal);
+}

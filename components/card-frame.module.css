@@ -1,0 +1,175 @@
+.buttonFrameChild {
+  height: 73.1px;
+  width: 49px;
+  position: relative;
+  min-height: 73px;
+}
+.nameFrame {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+  white-space: nowrap;
+  z-index: 2;
+}
+.unionFrame {
+  width: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) var(--padding-0) var(--padding-0);
+  box-sizing: border-box;
+}
+.nextuiCardIcon {
+  height: 73.1px;
+  width: 73.1px;
+  position: relative;
+  min-height: 73px;
+  z-index: 2;
+}
+.buttonFrame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 22.45px;
+}
+.communityGroupIcon {
+  height: 25.5px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.nextUI {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-7xl);
+  line-height: 16px;
+  font-weight: 600;
+  font-family: var(--text-lg-leading-7-font-normal);
+  color: var(--colors-base-default-foreground);
+  text-align: center;
+}
+.button,
+.inputFrame {
+  width: 105px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4.699999999999989px var(--padding-0) var(--padding-0);
+  box-sizing: border-box;
+}
+.button {
+  cursor: pointer;
+  border: 3px solid var(--color-gray-300);
+  padding: 14.300000000000011px var(--padding-xl) 14.199999999999989px
+    25.600000000000364px;
+  background-color: transparent;
+  width: 188.2px;
+  border-radius: var(--br-mini);
+  flex-direction: row;
+  gap: 0 8px;
+}
+.frameIcon {
+  height: 25.5px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 26px;
+}
+.text {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-7xl);
+  line-height: 19.2px;
+  font-weight: 600;
+  font-family: var(--text-lg-leading-7-font-normal);
+  color: var(--colors-base-default-foreground);
+  text-align: center;
+}
+.button1,
+.textWrapper {
+  width: 118px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2.6999999999999886px var(--padding-0) var(--padding-0);
+  box-sizing: border-box;
+}
+.button1 {
+  cursor: pointer;
+  border: 3px solid var(--color-gray-300);
+  padding: 14.300000000000011px var(--padding-xl) 14.199999999999989px
+    25.600000000000364px;
+  background-color: transparent;
+  width: 201.2px;
+  border-radius: var(--br-mini);
+  flex-direction: row;
+  gap: 0 8px;
+}
+.unionIcon {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.avatarFrame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) var(--padding-0) var(--padding-0);
+}
+.secondCardFrame {
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-7xl);
+  line-height: 19.2px;
+  font-weight: 600;
+  font-family: var(--text-lg-leading-7-font-normal);
+  color: var(--color-black);
+  text-align: center;
+  white-space: nowrap;
+}
+.button2,
+.cardFrame,
+.openSourceKitFrame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.button2 {
+  cursor: pointer;
+  border: 2px solid var(--color-black);
+  padding: var(--padding-mid) var(--padding-3xl) var(--padding-mid)
+    25.600000000000364px;
+  background-color: var(--color-orange-100);
+  flex: 1;
+  border-radius: var(--br-mini);
+  justify-content: flex-start;
+  gap: 0 8px;
+}
+.cardFrame,
+.openSourceKitFrame {
+  max-width: 100%;
+}
+.openSourceKitFrame {
+  width: 640.6px;
+  justify-content: flex-start;
+  gap: 0 16px;
+}
+.cardFrame {
+  width: 1282.6px;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--colors-base-default-foreground);
+  font-family: var(--text-lg-leading-7-font-normal);
+}
